@@ -13,7 +13,7 @@ class MainActivity : AppCompatActivity() {
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerView)
 
         //TODO Step 2: Provide a LayoutManager
-
+recyler.view
 
         //TODO Step 4: Provide a RecyclerView.Adapter
     }
